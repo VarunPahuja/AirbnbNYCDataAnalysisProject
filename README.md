@@ -52,7 +52,7 @@ To run this analysis:
 
 1. Clone this repository
 ```
-git clone https://github.com/yourusername/airbnb-nyc-analysis.git
+git clone https://github.com/VarunPahuja/AirbnbNYCDataAnalysisProject.git
 ```
 
 2. Install required dependencies
