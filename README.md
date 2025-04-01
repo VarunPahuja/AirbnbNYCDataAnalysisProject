@@ -62,7 +62,7 @@ pip install pandas numpy matplotlib seaborn
 
 3. Open the Jupyter notebook
 ```
-jupyter notebook Untitled-1.ipynb
+jupyter notebook notebook.ipynb
 ```
 
 ## Future Work
